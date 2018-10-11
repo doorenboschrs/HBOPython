@@ -1,7 +1,3 @@
-print(int(3.0))
-print(str(3))
-print(float(3))
-print(bool(3))
-print(bool("Three"))
-age = 22
-print("Your age will be " + str(age+1) + " next year")
+cijferlijst = {"Bob":8, "Lenord":10, "Brad":2, "Jan":1, "Hans":6, "George":9, "Roos":10, "Britney":1 }
+test = cijferlijst.items()
+
